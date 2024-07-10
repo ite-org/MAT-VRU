@@ -18,7 +18,7 @@ We invite you to actively participate in the SCC. Your expertise will help shape
 
 To confirm your interest or request additional information, please respond to this email or complete this form https://forms.gle/3pZVn57nznoeWasb9
 
-### **MAT-VRU Documents from Phase 1 of the Project**
+### **MAT-VRU White Papers, Use Cases, and Project Management Plans from Phase 1**
 https://www.ite.org/technical-resources/topics/standards/mat-and-vru-cybersecurity/
 
 ### **Specifications and Projects Relevant to MAT-VRU**
