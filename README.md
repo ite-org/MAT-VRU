@@ -22,6 +22,7 @@ To confirm your interest or request additional information, please respond to th
 https://github.com/ite-org/MAT-VRU/blob/main/Project%20Meetings
 
 ## **Committee Project Meetings**
+https://github.com/ite-org/MAT-VRU/blob/main/SCC%20Subcommittee%20Meetings
 
 ### **MAT-VRU White Papers, Use Cases, and Project Management Plans from Phase 1**
 https://www.ite.org/technical-resources/topics/standards/mat-and-vru-cybersecurity/
